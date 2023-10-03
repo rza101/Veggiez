@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Veggiez</string>
+
+    <string name="about">About Me</string>
+    <string name="back">Back</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="my_email">rhezarijaya@gmail.com</string>
+    <string name="my_name">Rheza Rijaya</string>
+    <string name="no_item">No Item</string>
+    <string name="remove_from_favorite">Remove from favorite</string>
+    <string name="save_on_favorite">Save on favorite</string>
+    <string name="search">Search</string>
+</resources>
